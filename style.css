@@ -1,0 +1,15 @@
+*{
+    border-top: 1px solid red;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+}
+
+thead th{
+    background: #CCCCCC;
+}
+
+.green{
+    background: #ABE113;
+    font-weight: bold;
+}
